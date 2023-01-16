@@ -1,0 +1,8 @@
+public class TestaSAPCommerce{
+    public static void main (String[]args){
+        SAPCOmmerce sapcommercer = new SAPCommerce();
+
+        sapcommerce.addToCart();
+        sapcommerce.removeItemFromCart();
+    }
+}
